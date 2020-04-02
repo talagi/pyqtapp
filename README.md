@@ -1,1 +1,1 @@
-# pyqtapp
+Logowanie urzytkowników
